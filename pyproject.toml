@@ -6,7 +6,11 @@ authors = ["Ashley S. Lee <ashley.syg.lee@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+bs4 = "^0.0.1"
 selenium = "^3.141.0"
+numpy = "1.14.5"
+pandas = "1.0.5"
+requests = "^2.26.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

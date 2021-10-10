@@ -1,0 +1,8 @@
+README.rst
+setup.py
+inspirational_quotes/__init__.py
+inspirational_quotes/scrape.py
+inspirational_quotes.egg-info/PKG-INFO
+inspirational_quotes.egg-info/SOURCES.txt
+inspirational_quotes.egg-info/dependency_links.txt
+inspirational_quotes.egg-info/top_level.txt
